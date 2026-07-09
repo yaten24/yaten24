@@ -81,16 +81,6 @@ const yaten = {
 
 ---
 
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yaten24&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # Activity Graph
 
 <div align="center">
