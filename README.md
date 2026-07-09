@@ -95,11 +95,11 @@ const yaten = {
 
 # GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yaten24&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/yaten24/yaten24/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</p>
 
 ---
 
