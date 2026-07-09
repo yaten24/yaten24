@@ -113,8 +113,6 @@ const yaten = {
 
 # GitHub Contribution Snake
 
-> Enable this after configuring GitHub Actions.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/yaten24/yaten24/output/github-contribution-grid-snake-dark.svg"/>
