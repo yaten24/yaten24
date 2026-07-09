@@ -93,14 +93,6 @@ const yaten = {
 
 ---
 
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/yaten24/yaten24/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
 ---
 
 # Activity Graph
@@ -115,11 +107,11 @@ const yaten = {
 
 # GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=yaten24&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -145,10 +137,10 @@ const yaten = {
 
 # GitHub Contribution Snake
 
-> Enable this after configuring GitHub Actions.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/yaten24/yaten24/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
