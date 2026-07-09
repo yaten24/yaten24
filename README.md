@@ -101,16 +101,6 @@ const yaten = {
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yaten24&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Featured Projects
 
 | Project                      | Description                                                  | Tech                    |
