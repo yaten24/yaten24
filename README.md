@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things"/>
 
 </div>
 
@@ -97,7 +97,7 @@ const yaten = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaten24&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=yaten24&theme=tokyonight&hide_border=true"/>
 
 </div>
 
